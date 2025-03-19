@@ -1,5 +1,6 @@
 # Sree Kommalapati
 #### [Rutgers University, NB](rutgers.edy) Alumnus | Jan 2025 | Computer Science and Mathematics
+#### #OpenToWork
 
 ## Current Projects
 - **[Fortuna Trading Platform](https://github.com/starman-underground/fortuna-mltrading)** - An automated trading platform that allows for the programmatic creation, backtesting, and execution of strategies driven by a variety of machine learning models and data sources. Built using python, OpenCL, and Interactive Brokers. Private due to financial data licensing restrictions.
