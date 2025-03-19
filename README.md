@@ -19,6 +19,7 @@
   <img src = "https://pytorch.org/assets/images/pytorch-logo.png" width = 48 height = 48 />
   <img src="https://newrelic.com/sites/default/files/quickstarts/images/icons/tornado--logo.svg" width = 48 height = 48/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width = 48 height = 48/>
+  <img src="https://img.icons8.com/?size=512&id=90519&format=png" width = 48 height = 48/>
   <img src="https://blog.emberjs.com/images/logos/e-icon.png" width = "48" height = "48"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoW3g9hjXIasgon-kpzz-lD9z4SsalyPbZA&s" width = 48 height = 48/>
 </p>
