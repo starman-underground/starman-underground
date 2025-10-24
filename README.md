@@ -1,5 +1,5 @@
 # Sree Kommalapati
-#### [Rutgers University, NB](https://rutgers.edy) Alumnus | Jan 2025 | Computer Science and Mathematics
+#### [Rutgers University, NB](https://rutgers.edu) Alumnus | Jan 2025 | Computer Science and Mathematics
 
 
 ## Current Projects
