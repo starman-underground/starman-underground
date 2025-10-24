@@ -3,7 +3,8 @@
 
 
 ## Current Projects
-- **[Fortuna Trading Platform](https://github.com/starman-underground/fortuna-mltrading)** - An automated trading platform that allows for the programmatic creation, backtesting, and execution of strategies driven by a variety of machine learning models and data sources. Built using python, OpenCL, and Interactive Brokers. Private due to financial data licensing restrictions.
+- **[Track My Jobs AI](https://github.com/starman-underground/track-my-jobs-ai)** - A web application that deploys AI on the edge to deliver powerful insights and organizational capacity without comprimising user privacy.
+- **Fortuna Trading Platform** (private) - An automated trading platform that allows for the programmatic creation, backtesting, and execution of strategies driven by a variety of machine learning models and data sources. Built using python, OpenCL, and Interactive Brokers. Private due to financial data licensing restrictions.
 
 ## Tech Stack
 <p float = "left">
